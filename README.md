@@ -28,19 +28,12 @@ Answers...
 
 let paduanPods = [
     {
-    podName: St. Anthony of Padua,
-    podRoom: 226,
-    8: Ian
-    8: Justin
-    totalStudents: 2
-    }, 
-    {
     podInfo: {
         name: St. Therese of Liseux,
         room: 225,
         totalStudents: 2
     }
-    8: Mateo
-    8: Connor
+    8: [Mateo, Connor]
+    7: [Ricky, Ximena]
     }
 ]
